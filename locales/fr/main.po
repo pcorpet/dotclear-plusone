@@ -1,0 +1,5 @@
+msgid "Configuration successuflly updated."
+msgstr "La configuration a été mise à jour correctement."
+
+msgid "Display a +1 button for each post"
+msgstr "Affiche un bouton +1 pour chaque billet"
